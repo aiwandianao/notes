@@ -136,10 +136,8 @@
 * [Maven笔记](/dcos/Maven笔记.png)
 
 
-## GPL v2.0
-[LICENSE](https://github.com/wardseptember/notes/blob/master/LICENSE)
-
 ## 联系方式
 
 - E-mail : <wardseptember@163.com>
 
+更新一下
